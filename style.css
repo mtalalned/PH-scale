@@ -1,0 +1,100 @@
+
+@font-face {
+    font-family: "shippori antique B1";
+    src: url(./Shippori_Antique_B1/ShipporiAntiqueB1-Regular.ttf);
+}
+* {
+    padding: 0;
+    margin: 0;
+    border: none;
+    border-spacing: 0;
+}
+html {
+    font-size: 62.5%;
+}
+body {
+    background-color: #C0C0C0;
+    font-family: "shippori antique B1";
+    margin-left: 3rem;
+    margin-top: 3rem;
+    margin-right: 3rem;
+}
+table { 
+    width: 100%;
+    font-size: 2rem;
+}
+td{
+    line-height: 3.5rem;
+    padding-left: 1rem;
+}
+h1 {
+    font-size: 3.5rem;
+    padding-left: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin-bottom: 1.5rem;
+}
+h1{
+    background-color: #E2E2E2;
+    color: #000000;
+}
+.color1 {
+background-color: #2982C4;
+color: #ffffff;
+}
+.color2 {
+    background-color: #2394D0;
+    color: #ffffff;
+}
+.color3 {
+    background-color: #229FD9;
+    color: #ffffff;
+}
+.color4 {
+    background-color: #3BA8E0;
+    color: #ffffff;
+}
+.color5 {
+    background-color: #5AB5E4;
+    color: #ffffff;
+}
+.color6 {
+    background-color: #73C0EC;
+    color: #ffffff;
+}
+.color7 {
+    background-color: #8ECAEF;
+    color: #ffffff;
+}
+.color8{
+    background-color: #1EB683;
+    color: #ffffff;
+}
+.color9{
+    background-color: #F4AFCC;
+    color: #ffffff;
+}
+.color10{
+    background-color: #F49DC0;
+    color: #ffffff;
+}
+.color11{
+    background-color: #F38DB4;
+    color: #ffffff;
+}
+.color12{
+    background-color:#EF7AA4;
+    color: #ffffff;
+}
+.color13{
+    background-color:#EE6996;
+    color: #ffffff;
+}
+.color14{
+    background-color: #F0588B;
+    color: #ffffff;
+}
+.color15{
+    background-color: #ED3C84;
+    color: #ffffff;
+}
